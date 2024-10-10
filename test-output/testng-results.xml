@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[No of rows are::9]]>
+    </line>
+    <line>
+      <![CDATA[Customer Add Success::Customer-00000010755    Customer-00000010755]]>
+    </line>
+    <line>
+      <![CDATA[Customer Add Success::Customer-00000010756    Customer-00000010756]]>
+    </line>
+    <line>
+      <![CDATA[Customer Add Fail::Customer-00000010757    Customer-00000010030]]>
+    </line>
+    <line>
+      <![CDATA[Customer Add Success::Customer-00000010758    Customer-00000010758]]>
+    </line>
+    <line>
+      <![CDATA[Customer Add Success::Customer-00000010759    Customer-00000010759]]>
+    </line>
+    <line>
+      <![CDATA[Customer Add Success::Customer-00000010760    Customer-00000010760]]>
+    </line>
+    <line>
+      <![CDATA[Customer Add Success::Customer-00000010761    Customer-00000010761]]>
+    </line>
+    <line>
+      <![CDATA[Customer Add Success::Customer-00000010762    Customer-00000010762]]>
+    </line>
+    <line>
+      <![CDATA[Customer Add Success::Customer-00000010763    Customer-00000010763]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-09-23T11:49:20 IST" name="Default suite" finished-at="2024-09-23T11:52:52 IST" duration-ms="212008">
+    <groups>
+    </groups>
+    <test started-at="2024-09-23T11:49:20 IST" name="Default test" finished-at="2024-09-23T11:52:52 IST" duration-ms="212008">
+      <class name="driverFactory.TestScript">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:driverFactory.TestScript@28cda624]" started-at="2024-09-23T11:49:20 IST" name="setUp" finished-at="2024-09-23T11:49:27 IST" duration-ms="6888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="startTest()[pri:0, instance:driverFactory.TestScript@28cda624]" started-at="2024-09-23T11:49:27 IST" name="startTest" finished-at="2024-09-23T11:52:50 IST" duration-ms="203443" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[No of rows are::9]]>
+            </line>
+            <line>
+              <![CDATA[Customer Add Success::Customer-00000010755    Customer-00000010755]]>
+            </line>
+            <line>
+              <![CDATA[Customer Add Success::Customer-00000010756    Customer-00000010756]]>
+            </line>
+            <line>
+              <![CDATA[Customer Add Fail::Customer-00000010757    Customer-00000010030]]>
+            </line>
+            <line>
+              <![CDATA[Customer Add Success::Customer-00000010758    Customer-00000010758]]>
+            </line>
+            <line>
+              <![CDATA[Customer Add Success::Customer-00000010759    Customer-00000010759]]>
+            </line>
+            <line>
+              <![CDATA[Customer Add Success::Customer-00000010760    Customer-00000010760]]>
+            </line>
+            <line>
+              <![CDATA[Customer Add Success::Customer-00000010761    Customer-00000010761]]>
+            </line>
+            <line>
+              <![CDATA[Customer Add Success::Customer-00000010762    Customer-00000010762]]>
+            </line>
+            <line>
+              <![CDATA[Customer Add Success::Customer-00000010763    Customer-00000010763]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:driverFactory.TestScript@28cda624]" started-at="2024-09-23T11:52:50 IST" name="tearDown" finished-at="2024-09-23T11:52:52 IST" duration-ms="1559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- driverFactory.TestScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
